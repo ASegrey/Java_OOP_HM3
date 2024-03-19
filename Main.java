@@ -8,7 +8,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-/*         MyLinkedList <String> myLinkedList = new MyLinkedList<String>();
+         MyLinkedList <String> myLinkedList = new MyLinkedList<String>();
         myLinkedList.add("First");          //Добавление элемента
         myLinkedList.add("Second");
         myLinkedList.add("Third");
@@ -16,7 +16,7 @@ public class Main {
         myLinkedList.printList();                   // печать for-each
         myLinkedList.delToElement("Second");   // удаление эемента
         myLinkedList.printList();                   // печать for-each
-        System.out.println("Элемент индекса 0 -> " + myLinkedList.getItem(0)); */
+        System.out.println("Элемент индекса 0 -> " + myLinkedList.getItem(0)); 
 
         List<Employee> employees = new ArrayList<>();
 
